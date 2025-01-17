@@ -167,13 +167,10 @@ The search process follows these steps:
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - OpenAI for medicine analysis capabilities
 - Google for Gemini Vision API
 - Perplexity for real-time information
-- The medical community for valuable feedback
+
